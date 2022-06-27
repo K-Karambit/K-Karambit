@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K-Karambit
+- 👋 Hi, I’m Kenneth Serrano
 - 👀 I’m interested in website development and software development.
 - 🌱 I’m currently learning web development and also software development.
 - 💞️ I’m not looking at a collaboration yet.
