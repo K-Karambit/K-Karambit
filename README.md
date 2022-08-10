@@ -4,7 +4,7 @@
 - 💞️ I’m not looking at a collaboration yet.
 - 📫 You can reach me at https://www.facebook.com/MrNice.Kenneth.Serrano
 
-<a href="https://app.daily.dev/Ken_Karamby"><img src="https://github.com/Ken_Karamby/Ken_Karamby/blob/master/devcard.svg" width="400" alt="Ken_Karamby Dev Card"/></a>
+<a href="https://app.daily.dev/Ken_Karamby"><img src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="400" alt="Ken_Karamby Dev Card"/></a>
 
 <!---
 K-Karambit/K-Karambit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
