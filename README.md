@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://k-karambit.github.io/2022-PORTFOLIO/](https://k-karambit.github.io/2022-PORTFOLIO/)
 
-- 📫 How to reach me **kennethserrano61001@gmail.com.com**
+- 📫 How to reach me **kennethserrano61001@gmail.com**
 
 - ⚡ Fun fact **I'm a newbie and still learning.**
 
