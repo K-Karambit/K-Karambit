@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-karambit&" alt="k-karambit" /></p>
 
-<a href="https://app.daily.dev/Ken_Karamby"><img align="center" src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="400" alt="Ken_Karamby Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/Ken_Karamby"><img align="center" src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="400" alt="Ken_Karamby Dev Card"/></a>
 
 <!---
 K-Karambit/K-Karambit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
