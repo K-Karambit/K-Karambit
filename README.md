@@ -1,41 +1,141 @@
-<h1 align="center">Hi 👋, I'm Kenneth</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<div align="center">
+<img src="https://lh3.googleusercontent.com/5LBn0lQD1RL7TeRVyUgcOfVR8cNTtCc4A5DbrMyxDdSILNX0aBNNhsxJuE9FMhoLIqVHoLIwFBUT0e8TCcadFr3i5nC0UGELxlMqZl03HRic8QGab1ArSg6sNifrM6VVIvUyRy29HMTRPe3D8OWhjceC3ocpTVfn3PxU3bN3iXEpj8GJHy14uzkg_WXfZlAQzMFbW1wEd6C0TOeu-mrz_EhJwmg7mgWijxFBRuLhQoIcX1LIAKoFbo_ZZ8W72pkQ-Cl8T8NZfLIVxQXiR3CTfTvqehORnNA1i5sJm2Isl4lql3TL55wQm956hwCj76Dw3QtfjeQ84MG-_Z5ZGqt_KDCKu9kpmahxxJouD1AhzAQ1thbrZ9ttw7MyEZRdjfDy6KI_UuGJz2_fxXySR8uEX5NB0Bm3V2JwtvYoHnVOxVBZgzOzDfV2QurhwWLbKv-Q3PTPXJiBJH2OOZ7xwVxalbbodQI_FhsGroLIk3VpfobjCBdbtM5w2vW11TKzMRs_exVIG85BQCQarLYx0z7HH10afn7RoUvhICxQzMTuSRHPV_wWQIPFx-jFgj8G2TtJMFsZUS_qHoETBRlffW1B-_iKQrbIVkoHWh0T6q7rhBpytvvyiwsNnDOerWco3d5Q43osZFrcFsXiq7icyjL-EGU6E_GBHmBhCx5-gnD16V-OaGmk46pF6iCULc_CZGDjXwLmhumJsbl1oylLIei7ZXRIOpwsUh8wjb8ZIEGGLJRVjjpi9JA4cWjx_Me2YRW0bwrbZh8lyBeX8dNJ4QlVWSQPXMWOfoM_qiMQO6i0mcc0TjVVX57CUJmLj1-Wvx0BXCGQIKipNOmNyDP3wF40YybxnrmmT3tsa-wwSilERM00VfpdvNc-nV4Bq_TruSnc7bUY-JN1-zz7t1Gt_2EUhyCagQoFw7F0Z2bqO4A8aOTXRMBY=w640-h360-no?authuser=0" align="center" style="width: 100%" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-karambit&label=Profile%20views&color=0e75b6&style=flat" alt="k-karambit" /> </p>
+### <div align="center">👋I'm Kenneth, I am a software engineer 👨‍💻 </div>  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=k-karambit" alt="k-karambit" /></a> </p>
+- 👨‍💻 All of my projects are available at [Kenneth Serrano](https://k-karambit.github.io/2022-PORTFOLIO/)  
+  
 
-<p align="left"> <a href="https://twitter.com/jk_s10" target="blank"><img src="https://img.shields.io/twitter/follow/jk_s10?logo=twitter&style=for-the-badge" alt="jk_s10" /></a> </p>
+- 🌱 I’m currently learning Website Development.  
+  
 
-- 👨‍💻 All of my projects are available at [https://k-karambit.github.io/2022-PORTFOLIO/](https://k-karambit.github.io/2022-PORTFOLIO/)
+- 📫 You can reach me at kennethserrano61001@gmail.com  
+  
 
-- 📫 How to reach me **kennethserrano61001@gmail.com**
+- ⚡ Fun fact I'm a newbie and still learning.  
+  
 
-- ⚡ Fun fact **I'm a newbie and still learning.**
+<br/>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/kenneth serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kenneth serrano" height="30" width="40" /></a>
-<a href="https://twitter.com/jk_s10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jk_s10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/john kenneth serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john kenneth serrano" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kenneth serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kenneth serrano" height="30" width="40" /></a>
-<a href="https://fb.com/kenneth serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenneth serrano" height="30" width="40" /></a>
-<a href="https://instagram.com/jken_parcio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jken_parcio" height="30" width="40" /></a>
-<a href="https://discord.gg/Daki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Daki" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<p width="100%"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-karambit&show_icons=true&locale=en&layout=compact" alt="k-karambit" /></p>
 
-<p width="100%">&nbsp;<img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=k-karambit&show_icons=true&locale=en" alt="k-karambit" /></p>
 
-<p width="100%"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-karambit&" alt="k-karambit" /></p>
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
 
-<a href="https://app.daily.dev/Ken_Karamby"><img src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="50%" alt="Ken_Karamby Dev Card"/></a>
+</td><td valign="top" width="33%">
 
-<!---
-K-Karambit/K-Karambit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### Backend  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Database  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>  
+
+
+
+### Other Technologies  
+<div align="center">  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/K-Karambit" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/JK_S10" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/john-kenneth-serrano-22bb37231/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/MrNice.Kenneth.Serrano" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ken.parcio" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/K-Karambit" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/kenneth-serrano-the-vuer" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/17493004/kenneth-serrano" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/kkarambit" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=K-Karambit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22hxo323jkehwiuiii5ud4cay&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=K-Karambit&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/KKaramby" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
