@@ -110,11 +110,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
+## Developer Card
+<a href="https://app.daily.dev/Ken_Karamby" align="center"><img align="center" src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="50%" alt="Ken_Karamby Dev Card"/></a>
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22hxo323jkehwiuiii5ud4cay&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
@@ -138,4 +135,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
