@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center" ><tr><td valign="top" width="33%">
 
 
 
@@ -105,16 +105,39 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=K-Karambit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=K-Karambit&show_icons=true&count_private=true&hide_border=true" align="center" />
+  
+<br/>
+  <br/>
+  <br/>
+  
 
-<br/>  
 
+<p align="center" width="100%"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-karambit&show_icons=true&locale=en&layout=compact" alt="k-karambit" /></p>
+
+<br/>
+<br/> 
+<br/> 
+
+<p align="center" width="100%"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-karambit&" alt="k-karambit" /></p>
+
+  <br/>
+<br/>
+<br/>
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=k-karambit" alt="k-karambit" /></a> </p>
+</div>  
 
 ## Developer Card
-<a href="https://app.daily.dev/Ken_Karamby" align="center"><img align="center" src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="50%" alt="Ken_Karamby Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/Ken_Karamby"><img src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="50%" alt="Ken_Karamby Dev Card"/></a>
+</div>
+
+<br/>  
+<br/>  
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22hxo323jkehwiuiii5ud4cay&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22hxo323jkehwiuiii5ud4cay&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>   
 
 <br/>  
 
