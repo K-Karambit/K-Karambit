@@ -18,6 +18,8 @@
 - ⚡ Fun fact I'm a newbie and still learning.  
   
 
+- 👨‍💻 Here's my business card [Kenneth Serrano](https://kennethserrano.carrd.co/)  
+
 <br/>  
 
 
