@@ -28,9 +28,14 @@ I'm a web developer with a passion for creating clean and functional websites. Y
 
 ## 📊 GitHub stats
 
-![](https://github-readme-stats.vercel.app/api?username=K-Karambit&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=K-Karambit&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Karambit&theme=react&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-Karambit&theme=transparent) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=K-Karambit&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=K-Karambit&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Karambit&theme=transparent&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K-Karambit&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K-Karambit&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-Karambit&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K-Karambit&theme=transparent) 
 
 ## 🏆 GitHub trophies
 
