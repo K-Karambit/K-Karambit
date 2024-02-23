@@ -65,4 +65,9 @@ If you appreciate my work, consider buying me a coffee. [buy me a coffee](https:
   
 <div align="center">
   <a href="https://app.daily.dev/Ken_Karamby"><img src="https://github.com/K-Karambit/K-Karambit/blob/main/devcard.svg" width="50%" alt="Ken_Karamby Dev Card"/></a>
+  <a href="https://app.daily.dev/ken_karamby"><img src="https://api.daily.dev/devcards/v2/dTQenDT8NE9ZI3Ry6x4z9.png?r=sxf&type=default" width="356" alt="Kenneth Serrano's Dev Card"/></a>
+</div>
+
+<div align="center">
+
 </div>
